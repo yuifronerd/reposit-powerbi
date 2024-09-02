@@ -1,2 +1,2 @@
-# reposit-rio-powerbi
+# Repositorio-powerbi
 Repósitorio para Dashboards de PowerBi
