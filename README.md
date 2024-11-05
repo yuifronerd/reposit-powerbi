@@ -2,6 +2,6 @@
 
 Olá! Este é meu repositório criado exclusivamente para projetos de dashboard realizados via PowerBi. Venho compartilhar em cada arquivo, um dashboard diferente, junto com sua descrição no README.md
 
-## 💕 Documentação 
+## 💕 Projetos
 - [Dashboard Comercial](https://github.com/yuifronerd/reposit-rio-powerbi/tree/main/Dashboard%20Comercial)
-- [Docuentação]
+- [Dashboard de Vendas](https://github.com/yuifronerd/reposit-rio-powerbi/tree/main/Dashboard%20de%20Vendas)
